@@ -1,0 +1,26 @@
+{
+  "name": "kultunaut-test",
+  "type": "widget",
+  "version": "1.11.0",
+  "exbVersion": "1.11.0",
+  "author": "Your Name",
+  "description": "A hello world starter widget",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "selectedId": {
+      "type": "string",
+      "defaultValue": "1074"
+    },
+    "hasSettingPage": false,
+    "hasConfig": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 200,
+    "height": 350
+  },
+  "settingsUri": "settings/setting"
+}
